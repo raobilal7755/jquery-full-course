@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #EBBBBB
+}
+#main{
+	margin: 30px 300px;
+	text-align: center;
+}
+#child{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	border: 1px solid red;
+}
+button{
+	padding: 15px 20px;
+	background-color: purple;
+	color: white;
+	border-radius: 10px;
+	width: 180px;
+	height: 45px;
+	font-size: 18px;
+}
+img{
+	height: 550px;
+	width: 800px;
+
+}

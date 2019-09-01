@@ -1,0 +1,5 @@
+
+Width() :: method sirf Width batye ga.
+innerWidth :: method sirf Width + padding  btaye ga.
+outerWidth :: method sirf Width +padding +border bataye ga.
+

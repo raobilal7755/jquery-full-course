@@ -1,0 +1,21 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+button{
+	padding: 15px 20px;
+	background-color: purple;
+	width: 200px;
+	height: 50px;
+	color: yellow;
+	border-radius: 10px;
+}
+.ancestor *{
+	display: block;
+	padding: 15px;
+	margin: 30px;
+	border: 2px solid purple;
+	border-radius: 10px;
+	color: #F315EB
+}

@@ -1,0 +1,6 @@
+The clone() method "makes a copy of selected elements", including child nodes, text and attributes.
+
+$(selector).clone(true|false)
+true	Specifies that event handlers also should be copied
+false	Default. Specifies that event handlers should not be copied
+

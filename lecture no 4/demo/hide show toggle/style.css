@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	margin: 50px 300px;
+	text-align: center;
+}
+body{
+	background-color: #E9BDBD
+}
+
+img{
+	height: 500px;
+	width: 800px;
+
+
+}
+button{
+	padding: 15px 20px;
+	width: 200px;
+	border-radius: 10px;
+	background-color: purple;
+	color: yellow;
+}

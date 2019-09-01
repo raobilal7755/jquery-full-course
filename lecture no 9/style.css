@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+button{
+	padding: 15px 20px;
+	height: 60px;
+	width: 300px;
+	font-size: 26px;
+	background-color: purple;
+	color: yellow;
+	border-radius: 10px;
+}
+#main{
+	margin: 20px 300px;
+	text-align: center;
+}

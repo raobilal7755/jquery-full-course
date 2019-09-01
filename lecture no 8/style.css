@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+button{
+	padding: 15px 20px;
+	height: 60px;
+	width: 180px;
+	font-size: 26px;
+	background-color: purple;
+	color: yellow;
+	border-radius: 10px;
+}
+#main{
+	margin: 20px 300px;
+	text-align: center;
+}
+
+.one{
+	font-size: 28px;
+	padding: 10px;
+	background-color: purple;
+	color: yellow;
+	border: 5px solid yellow;
+	border-radius: 10px;
+}

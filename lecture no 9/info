@@ -1,0 +1,19 @@
+The detach() method removes the selected elements, including all text and child nodes. However, it keeps data and events.
+
+This method also keeps a copy of the removed elements, which allows them to be reinserted at a later time.
+
+<p>jquery</p>
+
+
+------------------------------------------------------------------
+The remove() method removes the selected elements, including all text and child nodes.
+
+This method also removes data and events of the selected elements.
+
+
+-----------------------------------------------------------------
+The empty() method removes all child nodes and content from the selected elements.
+
+Note: This method does not remove the element itself, or its attributes.
+
+

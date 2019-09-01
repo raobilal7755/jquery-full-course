@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+button{
+	padding: 15px 20px;
+	height: 60px;
+	width: 320px;
+	font-size: 26px;
+	background-color: purple;
+	color: yellow;
+	border-radius: 10px;
+}
+
+
+div{
+	padding: 20px;
+	width: 100%;
+	font-size: 29px;
+	color: yellow;
+	background-color: purple;
+	border: 5px solid yellow;
+}

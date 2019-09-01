@@ -1,0 +1,20 @@
+p{
+	background-color: purple;
+	color: yellow;
+	font-size: 25px;
+}
+
+#btn{
+	padding: 15px 20px;
+	background-color: green;
+	border-radius: 10px;
+	color: white;
+}
+
+tr{
+	height: 45px;
+}
+th{
+	background-color: green;
+	color: white;
+}
